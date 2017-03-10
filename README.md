@@ -18,6 +18,8 @@ npm install --save base64url
 ## hapi-auth-bearer-token
 ref. https://github.com/johnbrett/hapi-auth-bearer-token
 
+ref. https://www.npmjs.com/package/hapi-auth-bearer-token
+
 npm install --save hapi-auth-bearer-token
 
 
